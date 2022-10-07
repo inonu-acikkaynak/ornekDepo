@@ -1,1 +1,1 @@
-print("örnek içerik")
+print("örnek soru")
