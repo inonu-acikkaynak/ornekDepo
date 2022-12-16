@@ -3,4 +3,4 @@ print("örnek soru")
 
 print("ikinci ekleme")
 
-print("üçüncü eklem3333333")
+print("üçüncü eklem333333355555")
